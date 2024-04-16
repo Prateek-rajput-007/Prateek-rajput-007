@@ -7,9 +7,14 @@
 
 - 🌱 I’m currently learning **MERN,C++ , DSA**
 
+- 🔭 I’m currently working on **Data Structures and Algorithms**.
+  
+- 🌱 I’m currently learning **Data Structures and Algorithms**.
+
 - 💬 Ask me about **HTML, CSS, Javascript,React**
 
 - 📫 How to reach me **prprateek2022@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
