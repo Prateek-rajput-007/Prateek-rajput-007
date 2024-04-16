@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Prateek</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
