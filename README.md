@@ -10,9 +10,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**.
   
-- 🌱 I’m currently learning **Data Structures and Algorithms**.
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **prprateek2022@gmail.com**
 
