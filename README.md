@@ -2,7 +2,7 @@
 <h3 align="center">I am interested in learning new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+a+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **MERN**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **prprateek2022@gmail.com**
 
-- 🌍 Check out my **[Portfolio](https://prateek-portfolio-007.vercel.app/)**
+- 🌍 Check out my **[Portfolio](https://prateek-rajput-portfolio.vercel.app/)**
 
 ---
 
