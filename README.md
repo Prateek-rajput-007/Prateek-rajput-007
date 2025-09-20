@@ -36,6 +36,10 @@ I'm a passionate software engineer with expertise in the MERN stack and a strong
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateek-rajput-dev&theme=tokyonight" alt="GitHub Contribution Summary" />
 </p>
 
+## 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateek-rajput-dev&theme=tokyo-night&hide_border=true" />
+</p>
 
 ## 🛠️ Technologies & Tools
 
@@ -61,11 +65,6 @@ I'm a passionate software engineer with expertise in the MERN stack and a strong
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-## 📈 GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 🌐 Connect With Me
 
