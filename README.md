@@ -24,22 +24,23 @@ I'm a passionate software engineer with expertise in the MERN stack and a strong
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateek-rajput-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="prateek-rajput-dev's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-rajput-dev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prateek-rajput-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-rajput-007&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-rajput-dev&theme=tokyonight&hide_border=true" alt="prateek-rajput-dev's GitHub streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-rajput-007&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateek-rajput-dev&theme=tokyonight" alt="GitHub Contribution Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateek-rajput-007&theme=tokyonight" alt="GitHub Contribution Summary" />
 </p>
 
 ## 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateek-rajput-dev&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ACTUAL_USERNAME&theme=tokyo-night&hide_border=true" />
 </p>
+
 
 ## 🛠️ Technologies & Tools
 
@@ -80,8 +81,3 @@ I'm a passionate software engineer with expertise in the MERN stack and a strong
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prateek-rajput-dev&label=Profile%20views&color=0e75b6&style=flat" alt="prateek-rajput-dev" /> 
-</p>
