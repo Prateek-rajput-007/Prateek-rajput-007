@@ -38,7 +38,7 @@ I'm a passionate software engineer with expertise in the MERN stack and a strong
 
 ## 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ACTUAL_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateek-rajput-007&theme=tokyo-night&hide_border=true" />
 </p>
 
 
