@@ -23,15 +23,19 @@ I'm a passionate software engineer with expertise in the MERN stack and a strong
 - ⚡ Fun fact: **I love solving coding challenges in my free time**
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateek-rajput-dev&show_icons=true&theme=radical" alt="prateek-rajput-dev's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-rajput-dev&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prateek-rajput-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="prateek-rajput-dev's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-rajput-dev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-rajput-dev&theme=radical" alt="prateek-rajput-dev's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-rajput-dev&theme=tokyonight&hide_border=true" alt="prateek-rajput-dev's GitHub streak" height="180"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateek-rajput-dev&theme=tokyonight" alt="GitHub Contribution Summary" />
+</p>
+
 
 ## 🛠️ Technologies & Tools
 
