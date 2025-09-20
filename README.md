@@ -1,63 +1,84 @@
-<h1 align="center">Hi 👋, I'm Prateek</h1>
-<h3 align="center">A passionate Software Engineer who loves building impactful applications 🚀</h3>
+<h1 align="center">Hi 👋, I'm Prateek Rajput</h1>
+<h3 align="center">Software Engineer passionate about building innovative solutions</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-<p align="left"> 
-  <a href="https://github.com/prateek-007">
-    <img src="https://komarev.com/ghpvc/?username=prateek-007&label=Profile%20views&color=0e75b6&style=flat" alt="prateek-007" />
-  </a> 
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
-
----
-
-### 🔭 About Me  
-- 💻 Currently working on **MERN Stack Applications**  
-- 🌱 Sharpening my skills in **C++, DSA, and Web Development**  
-- 🧩 Passionate about solving real-world problems through **tech & innovation**  
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, Node.js, Express.js, MongoDB**  
-- 📫 Reach me at **prprateek2022@gmail.com**  
-- 🌍 Visit my **[Portfolio](https://prateek-rajput-portfolio.vercel.app/)**  
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/prateek-rajput-449898191" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" />
-</a>
-<a href="mailto:prprateek2022@gmail.com" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" width="40" />
-</a>
-<a href="https://github.com/prateek-007" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" />
-</a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nextjs,nodejs,express,mongodb,mysql,python,git,github,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateek-007&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-007&layout=compact&theme=radical" alt="languages" height="180"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34F7A1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Enthusiast;Problem+Solver;Nice+to+e-meet+you!" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</p>
+
+## 🚀 About Me
+
+I'm a passionate software engineer with expertise in the MERN stack and a strong foundation in data structures and algorithms. I enjoy transforming complex problems into simple, beautiful, and intuitive solutions.
+
+- 🔭 I'm currently working on **MERN stack projects**
+- 🌱 I'm currently learning **advanced DSA concepts and system design**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **React, Node.js, JavaScript, or web development**
+- 📫 How to reach me: **prprateek2022@gmail.com**
+- ⚡ Fun fact: **I love solving coding challenges in my free time**
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prateek-rajput-dev&show_icons=true&theme=radical" alt="prateek-rajput-dev's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-rajput-dev&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-rajput-dev&theme=radical" alt="prateek-rajput-dev's GitHub streak" />
+</p>
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Backend Development
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+## 📈 GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/prateek-rajput-449898191" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prateek-rajput-449898191" height="30" width="40" />
+  </a>
+  <a href="https://prateek-rajput-portfolio.vercel.app/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="portfolio" height="30" width="40" />
+  </a>
+  <a href="mailto:prprateek2022@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="email" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
-- 🔹 **[Full Stack Job Seeking Application](https://github.com/prateek-007)** – MERN based job platform  
-- 🔹 **[AI Form Builder](https://github.com/prateek-007)** – Next.js + Gemini AI + PostgreSQL  
-- 🔹 **[Task Management System](https://github.com/prateek-007)** – Full-stack task scheduler  
-
----
-
-⭐️ From [Prateek](https://github.com/prateek-007)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prateek-rajput-dev&label=Profile%20views&color=0e75b6&style=flat" alt="prateek-rajput-dev" /> 
+</p>
