@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prateek Rajput</h1>
+<h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">Software Engineer passionate about building innovative solutions</h3>
 
 <p align="center">
